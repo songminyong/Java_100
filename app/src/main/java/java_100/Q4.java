@@ -1,9 +1,9 @@
 package java_100;
 
-public class Q3 
+public class Q4 
 {
     public static void main(String[] args) 
     {
-        System.out.println("Hello\nWorld");
-    }
+        System.out.println("\'Hello\'");
+    }    
 }
